@@ -1,0 +1,22 @@
+{
+  "name": "iching",
+  "version": "1.0.0",
+  "description": "iChing functions and minimal data lookup",
+  "main": "index.js",
+  "scripts": {
+    "test": "testcommand"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/justjoolz/iching.git"
+  },
+  "keywords": [
+    "iching"
+  ],
+  "author": "j00lz",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/justjoolz/iching/issues"
+  },
+  "homepage": "https://github.com/justjoolz/iching#readme"
+}
